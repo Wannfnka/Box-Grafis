@@ -1914,7 +1914,7 @@ pre code {
 }
 
 .form-control::placeholder {
-  color: #6c757d;
+  color: #ffffff;
   opacity: 1;
 }
 
@@ -9265,7 +9265,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #DA9F5B !important;
+  color: #e0a800 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
